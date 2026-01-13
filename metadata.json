@@ -1,0 +1,9 @@
+
+{
+  "name": "PlacementGuru",
+  "description": "A comprehensive platform for college students to share and browse interview experiences, prepare for placements, and get AI-powered interview tips.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
